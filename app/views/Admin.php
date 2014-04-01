@@ -1,0 +1,1 @@
+<?Template::$view['template_name']($view)?>
